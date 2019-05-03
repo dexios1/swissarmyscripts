@@ -1,4 +1,6 @@
 {
-  "python.pythonPath": "/home/dex/.local/share/virtualenvs/swissarmyscripts-cBu05vXE/bin",
-  "editor.tabSize": 4
+  "python.pythonPath": "/home/dex/.local/share/virtualenvs/lazybutler-tahVXZlI/bin/python",
+  "python.linting.pylintPath": "/home/dex/.local/share/virtualenvs/lazybutler-tahVXZlI/bin/pylint",
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true,
 }

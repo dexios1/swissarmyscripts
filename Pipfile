@@ -4,8 +4,11 @@ url = "https://pypi.org/simple"
 name = "pypi"
 
 [packages]
+pandas = "*"
+pylint = "*"
+argparse = "*"
 
 [requires]
-python_version = "3.5"
+python_version = "3.7"
 
 [dev-packages]
